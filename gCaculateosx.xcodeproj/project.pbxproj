@@ -190,6 +190,7 @@
 				TargetAttributes = {
 					152B57FB1BF080AA0083EC19 = {
 						CreatedOnToolsVersion = 7.1;
+						DevelopmentTeam = N4L73XZ7XB;
 					};
 					152B580C1BF080AA0083EC19 = {
 						CreatedOnToolsVersion = 7.1;
@@ -475,6 +476,7 @@
 				152B58231BF080AA0083EC19 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		152B58241BF080AA0083EC19 /* Build configuration list for PBXNativeTarget "gCaculateosxTests" */ = {
 			isa = XCConfigurationList;
@@ -483,6 +485,7 @@
 				152B58261BF080AA0083EC19 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		152B58271BF080AA0083EC19 /* Build configuration list for PBXNativeTarget "gCaculateosxUITests" */ = {
 			isa = XCConfigurationList;
@@ -491,6 +494,7 @@
 				152B58291BF080AA0083EC19 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
